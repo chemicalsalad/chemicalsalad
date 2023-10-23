@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey, I'm Haaziq 👋
+#### I'm a high school student based in Toronto, Canada who has a passion in web development and robotics. Outside of coding I love playing and watching hockey 🏒
 <!--
 **chemicalsalad/chemicalsalad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
